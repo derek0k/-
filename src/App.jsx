@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <div>I'M DEV</div>
+      <div>FROM GITHUB</div>
     </>
   );
 }
